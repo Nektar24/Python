@@ -60,9 +60,12 @@ for obj in today_list:
 
 if found_class == False :
     print("Den exeis Mathima Tora.")
-    print("Shmerino programma : ")
-    for obj in today_list:
-      print("||" + obj.name + "|| --> " + str(obj.starting_hour) + " - " + str(obj.ending_hour) + " <-- ")
-    print("Next class in " + str(today_list[0].starting_hour-ora-1) + " ores kai " + str(60 - datetime.datetime.now().minute) + " lepta...")
+    if today_list:
+      print("Shmerino programma : ")
+      for obj in today_list:
+        print("||" + obj.name + "|| --> " + str(obj.starting_hour) + " - " + str(obj.ending_hour) + " <-- ")
+      print("Next class in " + str(today_list[0].starting_hour-ora-1) + " ores kai " + str(60 - datetime.datetime.now().minute) + " lepta...")
+    elif not today_list:
+      print("Den exeis allo mathima shmera")
 
 input("Press Enter to close the program.")
