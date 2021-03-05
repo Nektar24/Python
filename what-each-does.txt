@@ -18,4 +18,6 @@ class notifier and automatic starter automatic.py :
 
 Σε ολες τις περιπτωσεις , πρεπει να ξαναφτιαξεις το προγραμμα κάθε εξάμηνο μέσα στον κώδικα.
 
-Για περίπτωση που δεν ξαναφτιάχνεις κώδικα , δες το Discord Bot μου , σε αυτο το repository : here
+DISCLAIMER : δουλευει μονο για το 4ο εξαμηνο του 2021 . Αλλα μπορεις να αλλαξεις τα μαθηματα αν κανεις edit τον κωδικα.
+
+Για περίπτωση που δεν ξαναφτιάχνεις κώδικα , δες το Discord Bot μου , σε αυτο το repository : https://github.com/Nektar24/class_notifier_discord_bot
