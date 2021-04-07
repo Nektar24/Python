@@ -28,16 +28,19 @@ list.append( Mathima("Theoria Shmaton kai Systhmaton","https://upatras-gr.zoom.u
 list.append( Mathima("Psifiaka Hlektronika","https://teams.microsoft.com/l/team/19%3a5050395caf7f46f787e9a1943fcd842b%40thread.tacv2/conversations?groupId=a4a5fb9f-8233-4249-8d30-ad570390d224&tenantId=5a52ab58-42d0-4bb4-b3fc-713dd6822d20","Tuesday",13,15) )
 list.append( Mathima("Domes Dedomenon","https://upatras-gr.zoom.us/j/92396242820?pwd=Tlk1QmNjYks3ZmFJc2UwVEtHTE0yUT09","Tuesday",15,17) )
 list.append( Mathima("Arithmitikh Analysh kai perivalonta hlopoihshs","https://upatras-gr.zoom.us/j/99385546396?pwd=WVY0c1FQVVBjc2VIQWdiWWFsN1pWQT09","Tuesday",17,19) )
-list.append( Mathima("Sygxrona Themata Arxitektonikhs","https://upatras.webex.com/webappng/sites/upatras/meeting/download/e8f24ebb3e0c44418328b32f89a955bc?siteurl=upatras&MTID=m0d3fd5550d06bccd835ac86330d80337","Wednesday",17,18) )
+list.append( Mathima("Sygxrona Themata Arxitektonikhs","https://upatras-gr.zoom.us/j/98228365346?pwd=S1Y2K1FGM08zYk9JbDRPNzJwTHZPUT09#success","Wednesday",17,18) )
 list.append( Mathima("Theoria Shmaton kai Systhmaton","https://upatras-gr.zoom.us/j/3189977126?pwd=a05FV3hrYnZhTDVGY3ptVE5nNElIdz09","Wednesday",18,21) )
 list.append( Mathima("Domes Dedomenon","https://upatras-gr.zoom.us/j/92396242820?pwd=Tlk1QmNjYks3ZmFJc2UwVEtHTE0yUT09","Thursday",15,17) )
-list.append( Mathima("Sygxrona Themata Arxitektonikhs","https://upatras.webex.com/webappng/sites/upatras/meeting/download/e8f24ebb3e0c44418328b32f89a955bc?siteurl=upatras&MTID=m0d3fd5550d06bccd835ac86330d80337","Thursday",17,19) )
+list.append( Mathima("Sygxrona Themata Arxitektonikhs","https://upatras-gr.zoom.us/j/95298846407?pwd=ZEMrT1QzdkozK0lmeDcrUC9xRkRodz09#success","Thursday",17,19) )
 list.append( Mathima("Psifiaka Hlektronika","https://teams.microsoft.com/l/team/19%3a5050395caf7f46f787e9a1943fcd842b%40thread.tacv2/conversations?groupId=a4a5fb9f-8233-4249-8d30-ad570390d224&tenantId=5a52ab58-42d0-4bb4-b3fc-713dd6822d20","Thursday",19,21) )
 
 # 2 mathimata 2ou eksaminou pou xrostao
 list.append( Mathima("Grammiki Algebra","https://upatras-gr.zoom.us/j/98551196932?pwd=K0FWY1NUSG94SWRmOWQ2OXB0dmNpdz09","Monday",12,14) )
 list.append( Mathima("Grammiki Algebra","https://upatras-gr.zoom.us/j/98551196932?pwd=K0FWY1NUSG94SWRmOWQ2OXB0dmNpdz09","Wednesday",9,12) )
 list.append( Mathima("Logikh Sxediash 2","https://upatras-gr.zoom.us/j/7170553726?pwd=aTVsMmJtVGY2RExCS0dKdWlmekdiQT09","Friday",9,12) )
+
+# mathima epilogis
+list.append( Mathima("Agglika 2","https://upatras-gr.zoom.us/j/6572548289?pwd=UXdLWXJMUnRHLzZXQTlkalFjWlN4UT09#success","Thursday",9,12) )
 
 today_list = []
 
